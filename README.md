@@ -4,6 +4,7 @@ Este repositorio contiene retos de proyectos que voy realizando de [Frontend Men
 
 ## Projects
 
-| No. | Project name and link                                    | Repo                                                                                         |
-| --- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 1   | [QR Code Component](https://qr-code-diloes.netlify.app/) | [Link to GitHub repo](https://github.com/diloes/frontend_mentor/tree/main/qr-code-component) |
+| No. | Project name and link                                           | Repo                                                                                          |
+| --- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1   | [QR Code Component](https://qr-code-diloes.netlify.app/)        | [Link to GitHub repo](https://github.com/diloes/frontend_mentor/tree/main/qr-code-component)  |
+| 2   | [Age Calculator App](https://age-calculator-diloes.netlify.app) | [Link to GitHub repo](https://github.com/diloes/frontend_mentor/tree/main/age-calculator-app) |
