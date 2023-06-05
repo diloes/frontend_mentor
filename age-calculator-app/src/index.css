@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --purple: 259deg 100% 65%;
+    --red: 0deg, 100%, 67%;
+    --white: 0deg 0% 100%;
+    --off-white: 0deg 0% 94%;
+    --light-grey: 0deg 0% 86%;
+    --smoke-grey: 0deg 1% 44%;
+    --off-black: 0deg 0% 8%;
+  }
+
+  html {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  input[type='number']::-webkit-inner-spin-button,
+  input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
